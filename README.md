@@ -5,6 +5,8 @@ quasi-ballistic Piledriver that carries three maneuverable warheads (MW-220)
 
 MW-200 is a 220kg supersonic maneuverable vehicle with a conventional warhead, powered by a rotating detonation engine that uses experimental fuel to generate insane thust thrust while maintaining   high efficiency.This fuel is extremely reactive; if leaked, it will react immediately, producing a plasma beam visible from 40 kilometers away.
 
+准弹道版本的改进型打桩机TBM，接近目标时会释放3个MW-220机动弹头
+
 include MSV and HLT launchers
 
 *this mod an **unofficial** mod for [Nuclear Option®](https://store.steampowered.com/app/2168680/Nuclear_Option/) (by Shockfront Studios)and it is **not affiliated with or endorsed** by Shockfront Studios.
